@@ -72,6 +72,7 @@ Original design inspiration: https://pin.it/55ktz7ojn
 Project Structure
 
 project/
+
 ├── index.html
 ├── style.css
 ├── script.js
