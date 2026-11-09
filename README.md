@@ -13,7 +13,6 @@ Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript (if applicable)
 
 Features
 
@@ -25,7 +24,7 @@ Features
 
 Design Inspiration
 
-Original design inspiration: [Add Pinterest Link]
+Original design inspiration: 
 
 
 Learning Outcomes
