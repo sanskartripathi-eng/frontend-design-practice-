@@ -27,13 +27,6 @@ Design Inspiration
 
 Original design inspiration: [Add Pinterest Link]
 
-Project Structure
-
-project/
-├── index.html
-├── style.css
-├── script.js
-└── images/
 
 Learning Outcomes
 
